@@ -2,7 +2,6 @@ package Solution;
 
 /**
  * Represent a coffee maker machine. The machine has a built in coffee grinder.
- * @author Juliano Franz
  */
 
 public class CoffeeMaker {
