@@ -2,7 +2,6 @@ package Solution;
 
 /**
  * Class used to represent coffee beans in the make coffee assignment.
- * @author Juliano Franz
  */
 public class CoffeeBeans {
     /**
