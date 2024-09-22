@@ -3,7 +3,7 @@
 
 ## CSCI 1110
 
-## Coffee-Maker-System
+## Coffee Maker System
 **Project Description-**
 The program simulates a coffee making system, including coffee beans, a coffee grinder, and a coffee maker. It demonstrates the use of classes, objects, and their interactions in Java.
 
