@@ -2,7 +2,6 @@ package Solution;
 
 /**
  * Represents a coffee grinder which can grind coffee beans
- * @author Juliano Franz
  */
 public class CoffeeGrinder {
 
